@@ -1,7 +1,7 @@
 {
-    "name": "CYBER-X",
+    "name": "සුදු බබා ♠️",
     "version": "2.0.1",
-    "description": "A simple and easy-to-use WhatsApp bot project based on Multi-Device Baileys and written in JavaScript",
+    "description": "SOUL KILLER WA BOT",
     "main": "index.js",
     "type": "commonjs",
     "scripts": {
@@ -9,7 +9,7 @@
         "stop": "pm2 stop wabot",
         "restart": "pm2 restart wabot"
     },
-    "author": "darkalphaxteam",
+    "author": "SOUL KILLER",
     "dependencies": {
         "@whiskeysockets/baileys": "git+https://github.com/darkalphaxteam/Baileys-New.git",
         "@adiwajshing/keyed-db": "^0.2.4",
